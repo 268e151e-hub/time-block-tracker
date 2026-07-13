@@ -1,5 +1,8 @@
 # Time Block Tracker
 
+[![CI](https://github.com/268e151e-hub/time-block-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/268e151e-hub/time-block-tracker/actions/workflows/ci.yml)
+
+A lightweight command-line tool for recording daily activities using predefined time blocks and Pomodoro-style focus sessions.
 A lightweight command-line tool for recording daily activities using predefined time blocks and Pomodoro-style focus sessions.
 
 ## Purpose

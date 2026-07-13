@@ -51,6 +51,20 @@ Generated files:
 - `reports/category_summary.pdf`
 - `reports/daily_summary.pdf`
 
+## Web Interface
+
+This tool also provides a simple Streamlit web interface.
+
+```bash
+python -m streamlit run app.py
+```
+
+Then open:
+
+```text
+http://localhost:8501
+```
+
 ## Development Setup
 
 ```bash

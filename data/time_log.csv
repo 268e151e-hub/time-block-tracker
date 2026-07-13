@@ -1,0 +1,3 @@
+date,type,block,start,end,minutes,category,note
+2026-07-13,block,morning,09:00,12:00,180,Japanese,NHK listening
+2026-07-13,pomodoro,,20:00,20:25,25,Programming,pytest practice

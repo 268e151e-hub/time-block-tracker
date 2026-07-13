@@ -7,6 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
     "pandas",
     "matplotlib",
+    "streamlit",
 ]
 
 [project.optional-dependencies]
